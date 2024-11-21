@@ -61,7 +61,7 @@
 ### 3.MIMD
 
 - 抄谁：
-  - ~~MIMD 是什么？：https://zhuanlan.zhihu.com/p/645392338~~（不符合主旨）
+  - ~~MIMD 是什么？：https://zhuanlan.zhihu.com/p/645392338 （不符合主旨）~~
   - 关于共享存储模型：UMA/NUMA/COMA/CC-NUMA/NORMA：https://pop0726.github.io/bxjs/text/ch02/se01/r2_1_5.htm
   - 并行多核体系结构概述：https://zhuanlan.zhihu.com/p/586274438
   - 未完待续
