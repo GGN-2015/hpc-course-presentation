@@ -36,9 +36,9 @@
 关于资料收集：
 
 1. TIGA 负责：收集 SIMD：Vector Pipelined 与 Processor Array SIMD 的相关资料。
-2. 资料收集：收集 SMP 与 CC-NUMA 的相关资料。
-3. 资料收集：收集 MIMD：并行向量处理机 Vector 的相关资料。
-4. 资料收集：收集 MIMD：大规模并行处理机 MPP、机群 Cluster 的相关资料。
+2. Mirrola 负责：收集 SMP 与 CC-NUMA 的相关资料。
+3. 云行亦定负责：收集 MIMD：并行向量处理机 Vector 的相关资料。
+4. 刘旭昭负责：收集 MIMD：大规模并行处理机 MPP、机群 Cluster 的相关资料。
 5. GGN_2015 负责：制作 PPT 以及用于提交的汇报文档。（自愿参与）
 
 ## 4. 报告中计划要有哪些内容
