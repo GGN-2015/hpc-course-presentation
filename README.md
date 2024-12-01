@@ -7,6 +7,7 @@
 - 读一下 1, 2, 3 三节内容即可。
 - overleaf: https://www.overleaf.com/project/6749b20547befa07fb9f26c1
 - 整理了一些例子：[timeline.md](timeline.md)
+- PPT 与 PDF 详见 [校对稿](./data/校对稿/)
 
 ## 0. 老师给出的内容大纲
 
